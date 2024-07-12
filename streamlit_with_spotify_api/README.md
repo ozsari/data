@@ -28,3 +28,4 @@ To use Spotify's API, you first need to create an app. Here's how:
 
 https://github.com/user-attachments/assets/a036c6b1-f72d-4586-9b9a-fe7b91f9f2db
 
+** If you get streamlit.cli error deactivate your virtual environment typing **deactivate**, then activate again > **source .venv/bin/activate**
