@@ -37,5 +37,5 @@ def get_artist_albums(token, artist_id):
         return response.json()['items']
     else:
         # Raise an exception if the request failed
-        raise Exception(f"Failed to get albums: {
-                        response.status_code}, {response.text}")
+        raise Exception(
+            f"Failed to get albums: {response.status_code}, {response.text}")
