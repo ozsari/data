@@ -12,5 +12,5 @@ def get_related_artists(token, artist_id):
     if response.status_code == 200:
         return response.json()['artists']
     else:
-        raise Exception(f"Failed to get related artists: {
-                        response.status_code}")
+        raise Exception(
+            f"Failed to get related artists: {response.status_code}")
