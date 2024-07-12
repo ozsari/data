@@ -11,8 +11,10 @@ To use Spotify's API, you first need to create an app. Here's how:
 6. Create a virtual environment in Python: python3 -m venv .venv
 7. Activate the virtual environment: source .venv/bin/activate
 8. Install the required libraries: pip install -r requirements.txt
-9. Finally, run streamlit run app.py to access the Streamlit dashboard. 
+9. Finally, run streamlit run app.py to access the Streamlit dashboard.
+    
 ## Demo
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="Wxsw0zP"><a href="https://imgur.com/Wxsw0zP">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+https://github.com/user-attachments/assets/a036c6b1-f72d-4586-9b9a-fe7b91f9f2db
 
